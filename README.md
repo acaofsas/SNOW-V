@@ -3,4 +3,4 @@
 1. Automatic search of linear approximation trails of SNOW-V
 2. Evaluating the accurate correlations for a special type of binary linear approximations
 3. Verification and details of a trail
-4. Practical simulation of 6 functions for Theorem 1
+4. Practical simulation of 6 sub-functions for Theorem 1
